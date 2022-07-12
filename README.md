@@ -2,7 +2,7 @@
 
 ### Biography
 
-Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitemas. Ao longo do meu aprendizado, tanto na academia quanto em curso complementares, tenho me aprofundado nas seguintes ferramentas:
+Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitemas. Ao longo do meu aprendizado, tanto na academia quanto em cursos complementares, tenho me aprofundado nas seguintes tecnologias:
 
 #### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CC3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +21,7 @@ Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitema
 
 #### Office 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 #### OS 
 ![Windowns](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit)
@@ -29,8 +30,45 @@ Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitema
 #### Terminal
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-#### Social
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### Social & Contacts 
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/thyago-santoss)
+
+<!-- Card: Gráfico de Evolução -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-kuit&show_icons=true&theme=radical)
+
+### Projects 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=devweekgit.github.io
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjetoPOOEquipe6&repo=api_unit_milhas
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=exercicios-logica-programacao
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=dio-desafio-github
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
