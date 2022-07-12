@@ -2,7 +2,7 @@
 
 ### Biography
 
-Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitemas. Ao longo do meu aprendizado, tanto na academia quanto em cursos complementares, tenho me aprofundado nas seguintes tecnologias:
+Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sistemas. Ao longo do meu aprendizado, tanto na academia quanto em cursos complementares, tenho me aprofundado nas seguintes tecnologias:
 
 #### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CC3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sitema
 
 ### Social & Contacts 
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/thyago-santoss)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/thyago-santoss/)
 
 <!-- Card: Gráfico de Evolução -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-kuit&show_icons=true&theme=radical)
