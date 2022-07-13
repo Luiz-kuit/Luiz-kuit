@@ -39,17 +39,20 @@ Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sistem
 
 ### Projects 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=exercises-poo
+)](https://github.com/Luiz-kuit/exercises-poo)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=devweekgit.github.io
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/Luiz-kuit/devweekgit.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjetoPOOEquipe6&repo=api_unit_milhas
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/ProjetoPOOEquipe6/api_unit_milhas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=exercicios-logica-programacao
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/Luiz-kuit/exercicios-logica-programacao)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=dio-desafio-github
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/Luiz-kuit/dio-desafio-github)
 
 
 
