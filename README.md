@@ -39,6 +39,12 @@ Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sistem
 
 ### Projects 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=project-unit-miles
+)](https://github.com/Luiz-kuit/project-unit-miles)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=project-youtube
+)](https://github.com/Luiz-kuit/project-youtube)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-kuit&repo=exercises-poo
 )](https://github.com/Luiz-kuit/exercises-poo)
 
