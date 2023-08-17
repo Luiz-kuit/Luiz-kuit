@@ -2,7 +2,7 @@
 
 ### Biography
 
-Atualmente estou estudando no 3º período do curso de Análise e Desenvolvimento de Sistemas. Estou participando de um intercâmbio estudantil na Universidad Nacional de Quilmes - Argentina. 
+Atualmente estou estudando no 4º período do curso de Análise e Desenvolvimento de Sistemas. 
 
 Ao longo do meu aprendizado, tanto na academia quanto em cursos complementares, tenho me aprofundado nas seguintes tecnologias:
 
